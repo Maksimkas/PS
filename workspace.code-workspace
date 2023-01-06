@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"path": "..\\Уроки фрилансера\\Landing14.09.21"
+		},
+		{
+			"path": "C:\\OpenServer\\domains\\php-example"
+		},
+		{
+			"path": "..\\itProger"
+		},
+		{
+			"path": "C:\\OpenServer\\domains\\mvc\\Work_list"
+		},
+		{
+			"path": "C:\\OpenServer\\domains\\toDoLlist"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\YoutubeLessons\\converter-start"
+		},
+		{
+			"path": "..\\BootstrapLessons"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "converter-start",
+		"phpserver.browser": "",
+		"phpserver.phpConfigPath": "C:/php/php.ini-production",
+		"phpserver.phpPath": "C:/php/php.exe",
+		"phpserver.router": "C:/php/php.exe",
+		"python.pythonPath": "C:\\Program Files\\Python38\\python.exe"
+	}
+}
